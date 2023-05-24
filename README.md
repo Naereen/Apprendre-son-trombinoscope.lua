@@ -33,7 +33,7 @@ Ce mini projet nous a permis de progresser en Lua et en Löve2D, dans le cadre d
 - [x] Ajout de la distance de Levenshtein ;
 - [x] Randomisation ? Non, je préfère laisse par ordre alphabétique.
 - [x] Ajout d'une documentation et mise en ligne sur GitHub.
-- [ ] Ajout d'une capture d'écran.
+- [x] Ajout d'une capture d'écran.
 
 ### Idées supplémentaires ?
 
